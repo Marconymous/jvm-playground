@@ -1,3 +1,3 @@
 # Java Tutorials
 
-- [Streams](codesnippets/Streams.md)
+- [Streams](codesnippets/streams/Streams.md)

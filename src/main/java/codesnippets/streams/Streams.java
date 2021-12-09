@@ -1,4 +1,4 @@
-package codesnippets;
+package codesnippets.streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
